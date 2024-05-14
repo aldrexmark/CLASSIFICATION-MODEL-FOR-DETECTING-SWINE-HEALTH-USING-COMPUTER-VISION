@@ -1,0 +1,2 @@
+# CLASSIFICATION-MODEL-FOR-DETECTING-SWINE-HEALTH-USING-COMPUTER-VISION
+This application and its subsequent documentation entitled Classification Model for Detecting Swine Health Using Computer Vision is submitted to the College of Information and Communications Technology, West Visayas State University, in partial fulfillment of the requirements for the degree Bachelor of Science in Computer Science. 
