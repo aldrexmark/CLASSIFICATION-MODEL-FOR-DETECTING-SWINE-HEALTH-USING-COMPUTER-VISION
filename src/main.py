@@ -21,8 +21,8 @@ import traceback
 import yagmail
 
 #DATABASE
-DB_PATH = r"C:/Users/Aldrex/Documents/Thesis/detected.db"
-IMAGE_PATH = r"C:/Users/Aldrex/Documents/Thesis/images"
+DB_PATH = os.path.join(BASE_DIR, "detected.db")
+IMAGE_PATH = os.path.join(BASE_DIR, "images")
 
 # Open SQLite connection
 with sqlite3.connect(DB_PATH) as conn:
